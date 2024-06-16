@@ -22,7 +22,7 @@ if(!isset($_SESSION)){
     <h1>filmes</h1>
         <div class="row align-items-start">
             <div class="col">
-                <a href="filmes/badboys/badboys.php">
+                <a href="filmes/badboys/badboys_cinemas.php">
                     <img src="https://br.web.img3.acsta.net/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg" class="img-fluid rounded" alt="...">
                     <h1>Bad Boys: Até o Fim</h1>
                 </a>                
