@@ -22,19 +22,19 @@ if(!isset($_SESSION)){
     <h1>filmes</h1>
         <div class="row align-items-start">
             <div class="col">
-                <a href="filmes/badboys.php">
+                <a href="filmes/badboys/badboys.php">
                     <img src="https://br.web.img3.acsta.net/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg" class="img-fluid rounded" alt="...">
                     <h1>Bad Boys: Até o Fim</h1>
                 </a>                
             </div>
             <div class="col">
-                <a href="filmes/planeta_dos_macacos.php">
+                <a href="filmes/planeta_macacos/planeta_dos_macacos.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/planeta-dos-macacos-o-reinado/667088c0-e297-4c2e-b30b-eba3922a8cf3.webp" class="img-fluid rounded" alt="...">
                     <h1>Planeta dos Macacos: O Reinado</h1>
                 </a>
             </div>
             <div class="col">
-                <a href="filmes/divertidamente.php">
+                <a href="filmes/divertidamente/divertidamente.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/divertida-mente-2/61ac248d-e3e6-4e33-9515-8ce0621a32fa.webp" class="img-fluid rounded" alt="">
                     <h1>Divertidamente 2</h1>
                 </a>
@@ -43,19 +43,19 @@ if(!isset($_SESSION)){
 
         <div class="row align-items-start">
             <div class="col">
-                <a href="filmes/malvado_favorito.php">
+                <a href="filmes/malvado_favorito/malvado_favorito.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/meu-malvado-favorito-4/4d756249-3b88-4b59-baa2-527f5e3d4c3e.webp" class="img-fluid rounded" alt="...">
                     <h1>Meu Malvado Favorito 4</h1>
                 </a>                
             </div>
             <div class="col">
-                <a href="filmes/semente_do_mal.php">
+                <a href="filmes/semente_mal/semente_do_mal.php">
                     <img src="https://maceioshopping.com/app/uploads/2024/06/semente-do-mal-poster.png" class="img-fluid rounded" alt="...">
                     <h1>Semente do Mal</h1>
                 </a>
             </div>
             <div class="col">
-                <a href="filmes/amigos_imaginario_cinemas.php">
+                <a href="filmes/amigos_imaginarios/amigos_imaginario_cinemas.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/amigos-imaginarios/9ac26dbc-867c-4e6b-9347-a3e751e52dce.webp" class="img-fluid rounded" alt="">
                     <h1>Amigos Imaginários</h1>
                 </a>
