@@ -76,8 +76,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="cine_passeio/amigos_imaginarios14_20.php">14:20</a></td>
-                <td class="hora"><a href="cine_passeio/amigo_imaginarios17_00.php">17:00</a></td>
+                <td class="hora"><a href="../../salas\cine_passeio\hrs14_20.php">14:20</a></td>
+                <td class="hora"><a href="../../salas\cine_passeio\hrs17_00.php">17:00</a></td>
             </tr>
         </table>
 
@@ -92,8 +92,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="palladium/hrs_18.php">18:00</a></td>
-                <td class="hora"><a href="palladium/hrs_13.php">13:10</a></td>
+                <td class="hora"><a href="../../salas\palladium\hrs_13.php">18:00</a></td>
+                <td class="hora"><a href="../../salas\palladium\hrs_18.php">13:10</a></td>
             </tr>
         </table>
 

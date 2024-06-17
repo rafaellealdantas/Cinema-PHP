@@ -28,7 +28,7 @@ if(!isset($_SESSION)){
                 </a>                
             </div>
             <div class="col">
-                <a href="filmes/planeta_macacos/planeta_dos_macacos.php">
+                <a href="filmes/planeta_macacos/planeta_dos_macacos_cinemas.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/planeta-dos-macacos-o-reinado/667088c0-e297-4c2e-b30b-eba3922a8cf3.webp" class="img-fluid rounded" alt="...">
                     <h1>Planeta dos Macacos: O Reinado</h1>
                 </a>
@@ -43,13 +43,13 @@ if(!isset($_SESSION)){
 
         <div class="row align-items-start">
             <div class="col">
-                <a href="filmes/malvado_favorito/malvado_favorito.php">
+                <a href="filmes/malvado_favorito/malvado_favorito_cinemas.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/meu-malvado-favorito-4/4d756249-3b88-4b59-baa2-527f5e3d4c3e.webp" class="img-fluid rounded" alt="...">
                     <h1>Meu Malvado Favorito 4</h1>
                 </a>                
             </div>
             <div class="col">
-                <a href="filmes/semente_mal/semente_do_mal.php">
+                <a href="filmes/semente_mal/semente_do_mal_cinemas.php">
                     <img src="https://maceioshopping.com/app/uploads/2024/06/semente-do-mal-poster.png" class="img-fluid rounded" alt="...">
                     <h1>Semente do Mal</h1>
                 </a>

@@ -76,8 +76,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="cine_passeio/hrs14_20.php">14:20</a></td>
-                <td class="hora"><a href="cine_passeio/hrs17_00.php">17:00</a></td>
+                <td class="hora"><a href="cinema\salas\cine_passeio\hrs14_20.php">14:20</a></td>
+                <td class="hora"><a href="cinema\salas\cine_passeio\hrs17_00.php">17:00</a></td>
             </tr>
         </table>
 
