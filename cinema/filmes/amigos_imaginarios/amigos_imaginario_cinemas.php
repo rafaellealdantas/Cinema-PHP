@@ -108,8 +108,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="barigui/hrs_17.php">17:00</a></td>
-                <td class="hora"><a href="barigui/hrs_19.php">19:00</a></td>
+                <td class="hora"><a href="../../salas/Barigui/hrs_17.php">17:00</a></td>
+                <td class="hora"><a href="../../salas/Barigui/hrs_19.php">19:00</a></td>
             </tr>
         </table>
 

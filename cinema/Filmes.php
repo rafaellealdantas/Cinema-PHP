@@ -34,7 +34,7 @@ if(!isset($_SESSION)){
                 </a>
             </div>
             <div class="col">
-                <a href="filmes/divertidamente/divertidamente.php">
+                <a href="filmes/divertidamente/divertidamente_cinemas.php">
                     <img src="https://ingresso-a.akamaihd.net/prd/img/movie/divertida-mente-2/61ac248d-e3e6-4e33-9515-8ce0621a32fa.webp" class="img-fluid rounded" alt="">
                     <h1>Divertidamente 2</h1>
                 </a>
