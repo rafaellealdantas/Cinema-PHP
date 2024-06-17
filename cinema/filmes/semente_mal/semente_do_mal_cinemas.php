@@ -76,8 +76,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="../../salas/cine_passeio/hrs14_20.php">14:20</a></td>
-                <td class="hora"><a href="../../salas/cine_passeio/hrs17_00.php">17:00</a></td>
+                <td class="hora"><a href="../../salas\cine_passeio\hrs_15_mal.php">15:20</a></td>
+                <td class="hora"><a href="../../salas\cine_passeio\hrs_18_mal.php">18:00</a></td>
             </tr>
         </table>
 
@@ -92,8 +92,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="../../salas\palladium\hrs_18.php">18:00</a></td>
-                <td class="hora"><a href="../../salas\palladium\hrs_13.php">13:10</a></td>
+                <td class="hora"><a href="../../salas\palladium\hrs_17_mal.php">17:00</a></td>
+                <td class="hora"><a href="../../salas\palladium\hrs_19_mal.php">19:10</a></td>
             </tr>
         </table>
 
@@ -108,8 +108,8 @@
 
         <table>
             <tr>
-                <td class="hora"><a href="../../salas\Barigui\hrs_17.php">17:00</a></td>
-                <td class="hora"><a href="../../salas\Barigui\hrs_19.php">19:00</a></td>
+                <td class="hora"><a href="../../salas\Barigui\hrs_15_mal.php">15:00</a></td>
+                <td class="hora"><a href="../../salas\Barigui\hrs_20_mal.php">20:00</a></td>
             </tr>
         </table>
 

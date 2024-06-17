@@ -19,7 +19,7 @@ if(!isset($_SESSION)){
 <body>
 <div class="bg-dark text-white py-5">        
 <div class="container text-center">
-    <h1>filmes</h1>
+    <h1>Filmes</h1>
         <div class="row align-items-start">
             <div class="col">
                 <a href="filmes/badboys/badboys_cinemas.php">
