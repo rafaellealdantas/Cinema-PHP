@@ -22,7 +22,7 @@ if (isset($_POST['cpf']) && isset($_POST['senha'])) {
 
         // Verificar a senha usando password_verify
         if (password_verify($senha, $obj->senha)) {
-            $_SESSION['cpf'] = $obj->cpf;
+            $_SESSION['cpf'] = $cpf;
             $_SESSION['nome'] = $obj->nome;
             $_SESSION['senha'] = $obj->senha;
 
